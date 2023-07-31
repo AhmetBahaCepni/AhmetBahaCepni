@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <a href="https://github.com/AhmetBahaCepni">
     <img src="https://readme-typing-svg.demolab.com/?lines=Ahmet%20Baha%20Cepni&font=Fira%20Code&center=true&width=250&height=45&vCenter=true&pause=400&size=25" />
 </p>
