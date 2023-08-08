@@ -11,7 +11,7 @@ Top Projects:
 | [So_Long](https://github.com/AhmetBahaCepni/so_long_42)| Simple 2D Maze game
 | [Living_RPS](https://github.com/AhmetBahaCepni/LivingRPS__RockPaperScissors__)| Visual Rock Paper Scissors Game
 | [Get_Next_Line](https://github.com/AhmetBahaCepni/Get_Next_Line_42)| Basic version of readline library.
-| [Ft_Printf](https://github.com/oolkay/42_ft_printf)| Implementation of printf().
+| [Ft_Printf](https://github.com/AhmetBahaCepni/ft_printf_42)| Implementation of printf().
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmetBahaCepni&layout=compact&theme=radical" />
 
