@@ -7,11 +7,10 @@ Top Projects:
 ||| 
 |	:-	| :--: |
 | [Minishell](https://github.com/AhmetBahaCepni/Minishell)| C program that works like BASH ft.[@oolkay](https://github.com/oolkay)
+| [Cub3d](https://github.com/oolkay/gtu-rtx-xv6)| 3D game in C using *raycasting* ft.[@oolkay](https://github.com/oolkay)
 | [IEEE GTUAPP (Backend Team)](https://play.google.com/store/apps/details?id=com.ieee.mobile_app)| Mobile App for Gebze Technical University
-| [So_Long](https://github.com/AhmetBahaCepni/so_long_42)| Simple 2D Maze game
+| [So_Long](https://github.com/AhmetBahaCepni/so_long_42)| Simple 2D Maze game in C
 | [Living_RPS](https://github.com/AhmetBahaCepni/LivingRPS__RockPaperScissors__)| Visual Rock Paper Scissors Game
-| [Get_Next_Line](https://github.com/AhmetBahaCepni/Get_Next_Line_42)| Basic version of readline library.
-| [Ft_Printf](https://github.com/AhmetBahaCepni/ft_printf_42)| Implementation of printf().
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmetBahaCepni&layout=compact&theme=radical" />
 
