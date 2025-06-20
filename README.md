@@ -6,7 +6,7 @@
 Top Projects:
 ||| 
 |	:-	| :--: |
-| [Minishell](https://github.com/AhmetBahaCepni/Minishell)| C program that works like BASH ft.[@oolkay](https://github.com/oolkay)
+| [Minishell](https://github.com/oolkay/Minishell)| C program that works like BASH ft.[@oolkay](https://github.com/oolkay)
 | [Cub3d](https://github.com/oolkay/gtu-rtx-xv6)| 3D game in C using *raycasting* ft.[@oolkay](https://github.com/oolkay)
 | [IEEE GTUAPP (Backend Team)](https://play.google.com/store/apps/details?id=com.ieee.mobile_app)| Mobile App for Gebze Technical University
 | [So_Long](https://github.com/AhmetBahaCepni/so_long_42)| Simple 2D Maze game in C
